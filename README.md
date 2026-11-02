@@ -4,10 +4,13 @@
 ### Full Stack Developer • Next.js | TypeScript | Node.js | AWS
 
 <p align="center">
+  <a href="https://jeevankishorea.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://linkedin.com/in/jeevankishorea" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:jeevankishore.dev@email.com">
+  <a href="mailto:jeevankishorea@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
@@ -17,6 +20,7 @@
 ---
 
 ### 👨‍💻 About Me
+- 🌐 **Live Portfolio**: [jeevankishorea.vercel.app](https://jeevankishorea.vercel.app/)
 - 💼 **Full Stack Developer** at **Anju Siima Technologies**
 - ⚡ Specialized in building high-performance web applications using **React.js, Next.js (App Router), and TypeScript**
 - 🛠️ Designing scalable backends, RESTful APIs, and microservices with **Node.js & Express**
